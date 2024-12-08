@@ -1,0 +1,5 @@
+2. config/ directory
+Centralizes settings and variables:
+
+Examples:
+settings.py: Loads and validates environment settings (e.g., Mongo URI, API Token) using libraries like python-dotenv or pydantic.
