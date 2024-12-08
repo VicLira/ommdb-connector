@@ -1,0 +1,8 @@
+7. Additional Files
+
+.env: Sensitive settings (e.g., credentials).
+.gitignore: Ignore files like venv/, .env, and __pycache__/.
+README.md: Initial documentation to explain the project.
+requirements.txt: List of Python dependencies.
+Dockerfile: Packaging the project in a Docker container.
+Makefile: Automates tasks like running tests or building Docker images.
