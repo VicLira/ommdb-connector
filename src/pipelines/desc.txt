@@ -1,0 +1,5 @@
+4. Pipelines/ directory
+Contains the high-level logic that integrates the services:
+
+Examples:
+pipeline.py: Implements the complete MongoDB → OpenMetadata flow, calling the necessary services.

@@ -1,0 +1,11 @@
+1. src/ directory
+
+--- 
+
+The main directory of the project. It contains:
+
+Examples:
+main.py: The entry point for running the connector.
+
+Subdirectories (config/, services/, pipelines/, models/):
+- Each subdirectory organizes specific functionality, ensuring separation of concerns and scalability.

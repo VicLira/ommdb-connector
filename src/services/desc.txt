@@ -1,0 +1,7 @@
+3. services/ directory
+Contains integrations and reusable functionality:
+
+Examples:
+mongodb.py: Manages connection to MongoDB and data extraction.
+metadata.py: Manages communication with the OpenMetadata API.
+utils.py: Helper functions that do not belong to specific services, such as flattening nested documents.

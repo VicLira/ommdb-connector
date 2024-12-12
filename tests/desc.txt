@@ -1,0 +1,7 @@
+6. tests/ directory
+Contains the project tests:
+
+Examples:
+test_mongodb.py: Tests the connection and extraction from MongoDB.
+test_metadata.py: Tests sending data to OpenMetadata.
+test_pipeline.py: Tests the execution of the complete pipeline.

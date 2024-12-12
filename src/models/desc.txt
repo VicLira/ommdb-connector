@@ -1,0 +1,5 @@
+5. models/ directory
+Defines models for data validation:
+
+Examples:
+schema.py: Validates metadata before sending it to OpenMetadata.
